@@ -1,2 +1,2 @@
-### `React | Styled-components | Typescript | Axios`
+React | Styled-components | Typescript | Axios
 
